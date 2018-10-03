@@ -3,6 +3,10 @@
 /*
 * global style
 */
+
+h3{
+  font-family: 'Merriweather', serif;
+}
 .no-padding {
   padding: 0px;
 }
@@ -143,7 +147,7 @@
 }
 
 .ethi-card-detail {
-  background-color: rgba(219, 219, 219, 0.7);
+  background-color: rgba(219, 219, 219, 0.4);
 }
 
 .ethi-card-text {
