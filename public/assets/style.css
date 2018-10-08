@@ -3,6 +3,9 @@
 /*
 * global style
 */
+*{
+  font-size: 18px;
+}
 h3 {
   font-family: 'Merriweather', serif;
 }
